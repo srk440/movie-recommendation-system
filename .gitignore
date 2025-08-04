@@ -1,0 +1,7 @@
+# Ignore large dataset files
+DATA_set/ml-32m/ratings.csv
+DATA_set/ml-32m/tags.csv
+
+# Ignore system and temporary files
+*.DS_Store
+*.ipynb_checkpoints/
